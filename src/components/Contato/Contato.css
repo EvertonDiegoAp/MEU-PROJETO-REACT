@@ -1,0 +1,31 @@
+form {
+    width: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+    background-color: black;
+    color: #F46A06;;
+}
+
+form fieldset {
+    border: 0
+    
+}
+
+form fieldset label {
+    display: block
+}
+
+form fieldset input, textarea {
+    width: 100%;
+    
+}
+
+#submit-contatc {
+    margin: 10px auto;
+    background-color: #F46A06;
+    color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+}

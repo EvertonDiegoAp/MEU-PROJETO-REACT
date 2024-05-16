@@ -1,0 +1,32 @@
+body {
+    margin:0;  
+    font-family: "Roboto", sans-serif;
+      
+}
+
+.button {
+    border: 0;
+    color: #F46A06;
+    padding: 25px;
+}
+
+.button:hover {
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #F46A06;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid #F46A06;
+}
+
+.invalid {
+    border: 2px solid red;
+}
+
+
+
+

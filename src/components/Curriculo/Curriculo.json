@@ -1,0 +1,43 @@
+{
+    "objetivo": "Estou buscando uma oportunidade desafiadora como desenvolvedor de software em uma empresa inovadora onde eu possa contribuir com minhas habilidades e crescer profissionalmente.",
+    "formacao": [
+        {
+            "titulo": " Graduando em Análise e Desenvolvimento de Sistema - Estácio de Sá",
+            "descricao": "Descrição do curso",
+            "dataInicio": "2023",
+            "dataFim": "Atualmente"
+          },
+          {
+            "titulo": " Cursando Desenvolvimento de Software - Comeia Academy",
+            "descricao": "Descrição do curso",
+            "dataInicio": "2024",
+            "dataFim": "Atualmente"
+          }
+      
+    ],
+    "experienciaProfissional": [
+        {
+            "titulo": " Suporte em TI - Autarquia Educacional da Mata Sul / Palmares - PE",
+            "descricao": "Descrição do curso",
+            "dataInicio": "2021",
+            "dataFim": "2023"
+          },
+          {
+            "titulo": " Auxiliar em Contabilidade - Prefeitura Municipal de Água Preta PE ",
+            "descricao": "Descrição do curso",
+            "dataInicio": "2017",
+            "dataFim": "2020"
+          },
+          {
+            "titulo": " Destack Calçados Palmares - PE",
+            "descricao": "Descrição do curso",
+            "dataInicio": "2015",
+            "dataFim": "2016"
+          }
+
+    ]
+
+
+
+        
+}

@@ -1,0 +1,21 @@
+img {
+    width: 150px;
+}
+.item-portfolio a >img{
+    max-width: 230px;
+    border: 1px solid #F46A06;
+    margin: 50px;
+}   
+.item-portfolio {
+    border: 1px solid #F46A06;
+    display: inline-block;
+    margin: 50px;
+}
+
+.item-portfolio a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #F46A06;
+    
+}
